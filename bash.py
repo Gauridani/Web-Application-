@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Add EC2 web application project"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/ec2-web-application.git
+git push -u origin main
